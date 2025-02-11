@@ -1,0 +1,32 @@
+body {
+    background-color: rgba(247, 78, 253, 0.459);
+}
+
+.imagem1 {
+text-align: center;
+
+}
+
+button {
+    width: 20%;
+    height: 40px;
+    margin: 10px auto;
+    justify-content: center;
+    display: block;
+    color:#fff;
+    background-color: #fa0fc7;
+    font-size: 1em;
+    font-weight: bold;
+    margin-top: 20px;
+    outline: none;
+    border-radius: 5px;
+    transition: .2s ease-in;
+    cursor: pointer;
+    
+}
+
+button:hover {
+    background-color: #8c00ff;
+}
+
+
